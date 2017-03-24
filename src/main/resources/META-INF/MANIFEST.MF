@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Rundeck-Plugin-Version: 1.2
+Rundeck-Plugin-Archive: true
+Rundeck-Plugin-File-Version: 0.0.1-SNAPSHOT
+Rundeck-Plugin-Author: Santander
+Rundeck-Plugin-URL: http://rundeck.org
+Rundeck-Plugin-Date: 2017-03-22T11:18:00-02
+Rundeck-Plugin-Classnames: br.com.santander.rundeck.plugins.RestSemaphoreDependencyPlugin
+Rundeck-Plugin-Name: REST Semaphore Dependency Plugin
+Rundeck-Plugin-Description: Enables one project to reference a REST semaphore service as dependency
+Rundeck-Plugin-Libs: lib/
